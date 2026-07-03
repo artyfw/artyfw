@@ -44,6 +44,14 @@ This profile is where I share my progress, experiments, and public projects as I
 
 </div>
 
+## Language Snapshot
+
+<div align="center">
+
+![Language snapshot](./assets/language-snapshot.svg)
+
+</div>
+
 ## How I Approach Projects
 
 - Keep the architecture understandable before making it clever
