@@ -44,11 +44,11 @@ This profile is where I share my progress, experiments, and public projects as I
 
 </div>
 
-## Language Snapshot
+## Most Used Languages
 
 <div align="center">
 
-![Language snapshot](./assets/language-snapshot.svg)
+![Most used languages](./assets/language-snapshot.svg)
 
 </div>
 
