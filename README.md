@@ -52,16 +52,6 @@ This profile is where I share my progress, experiments, and public projects as I
 - Document decisions so future work is easier to continue
 - Improve projects through iteration, testing, and feedback
 
-## GitHub Activity
-
-<div align="center">
-
-![Arty's GitHub stats](https://github-readme-stats.vercel.app/api?username=artyfw&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artyfw&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
 ## Current Direction
 
 I am currently focused on building stronger public projects, improving my full-stack workflow, and keeping this GitHub profile as a clear record of my progression.
