@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Arty — Full-Stack Developer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header.svg" width="100%" alt="Arty — Full-Stack Developer" />
+</picture>
 
 <br /><br />
 
@@ -88,6 +92,10 @@ const arty = {
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+  <img src="assets/footer.svg" width="100%" alt="" />
+</picture>
 
 </div>
