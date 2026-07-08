@@ -87,15 +87,3 @@ const arty = {
 </picture>
 
 </div>
-
-<br />
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
-  <img src="assets/footer.svg" width="100%" alt="" />
-</picture>
-
-</div>
