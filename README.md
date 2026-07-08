@@ -1,70 +1,108 @@
 <div align="center">
 
-# Arty
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=200&section=header&text=Arty&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%94%20I%20ship%20products,%20not%20just%20code&descAlignY=52&descSize=18" width="100%" alt="banner" />
 
-**Developer focused on clean software, useful products, and continuous improvement.**
+<a href="https://github.com/artyfw">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Java+%26+game+server+engineering;Clean+code%2C+fast+interfaces%2C+real+products" alt="typing intro" />
+</a>
 
-[![GitHub profile](https://img.shields.io/badge/GitHub-artyfw-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artyfw)
-![Profile views](https://komarev.com/ghpvc/?username=artyfw&style=for-the-badge&color=111827)
+<br />
 
-</div>
-
-## About
-
-I build software with a focus on clarity, reliability, and real-world usefulness. I enjoy transforming ideas into structured projects, improving developer workflows, and creating interfaces that feel simple, fast, and professional.
-
-This profile is where I share my progress, experiments, and public projects as I keep building and refining my engineering practice.
-
-## Focus Areas
-
-- Full-stack web development
-- Clean and maintainable codebases
-- Product-oriented interfaces
-- Automation and developer tooling
-- Practical learning through shipped projects
-
-## Tech I Work With
-
-<div>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+<img src="https://komarev.com/ghpvc/?username=artyfw&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="profile views" />
+<a href="https://github.com/artyfw?tab=followers"><img src="https://img.shields.io/github/followers/artyfw?style=for-the-badge&logo=github&color=0EA5E9&labelColor=0D1117" alt="followers" /></a>
 
 </div>
 
-## Most Used Languages
+<br />
 
-| Language | Focus |
-| --- | --- |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Structured web applications |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827) | Frontend logic and tooling |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Automation and practical scripts |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Interfaces, layout, and visual polish |
+## 🧑‍💻 About me
 
-## How I Approach Projects
+```typescript
+const arty = {
+  role: "Full-Stack Developer",
+  code: ["TypeScript", "JavaScript", "Java", "Python", "SQL"],
+  stack: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "PostgreSQL"],
+    also: ["Minecraft plugin engineering (Java)"],
+  },
+  currentFocus: "Building full products end-to-end — from schema to pixel",
+  philosophy: "Understandable before clever. Shipped before perfect.",
+};
+```
 
-- Keep the architecture understandable before making it clever
-- Build interfaces around the user flow, not only the visual layout
-- Prefer small, well-named pieces of logic over hidden complexity
-- Document decisions so future work is easier to continue
-- Improve projects through iteration, testing, and feedback
+- 🚀 I build **complete products**, not demos — database, API, UI, deploy.
+- 🧠 Obsessed with **clean architecture** and interfaces that feel *fast*.
+- 🎮 Side quest: **custom Minecraft server plugins** in Java, running in production for real player communities.
+- 📈 Every project is a rep — I ship, measure, refine, repeat.
 
-## Current Direction
+<br />
 
-I am currently focused on building stronger public projects, improving my full-stack workflow, and keeping this GitHub profile as a clear record of my progression.
+## ⚡ Tech stack
 
-## Contact
+<div align="center">
 
-The best way to follow my work is through my repositories and future public releases on [GitHub](https://github.com/artyfw).
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css&perline=8" alt="web stack" />
+<br />
+<img src="https://skillicons.dev/icons?i=java,python,postgres,git,github,vscode,vercel,figma&perline=8" alt="tools" />
+
+</div>
+
+<br />
+
+## 🚧 What I'm building right now
+
+| Project | Stack | Status |
+| :--- | :--- | :--- |
+| 🌐 **SaaS product** — full-stack app with a real database schema, auth and clean UI | `TypeScript` `Next.js` `PostgreSQL` | 🔒 Private — shipping soon |
+| 🐾 **Custom pet system** — advanced gameplay plugin for a Minecraft server | `Java` `Spigot API` | 🔒 In production |
+| 💼 **Portfolio & experiments** — interfaces, animations, tooling | `JavaScript` `CSS` | 🔁 Iterating |
+
+> Most of my work lives in private repos while it's being built — public releases are coming as projects mature.
+
+<br />
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=artyfw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&count_private=true&include_all_commits=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyfw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" alt="top languages" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=artyfw&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=38BDF8" alt="streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=artyfw&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=6366F1&point=A855F7&area=true" width="95%" alt="activity graph" />
+
+</div>
+
+<br />
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artyfw/artyfw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artyfw/artyfw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/artyfw/artyfw/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</picture>
+
+</div>
+
+<br />
+
+## 🤝 Reach me
+
+<div align="center">
+
+<a href="https://github.com/artyfw"><img src="https://img.shields.io/badge/GitHub-artyfw-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=6366F1" alt="GitHub" /></a>
+
+*The best way to follow my work: watch this space — public releases incoming.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
