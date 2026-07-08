@@ -1,0 +1,81 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 800 94px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; letter-spacing: 2px; }
+    .subtitle { font: 600 21px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; letter-spacing: 7px; fill: #8B95A7; }
+    .mono { font: 500 15px 'Cascadia Code', 'Fira Code', Consolas, monospace; }
+    .prompt { fill: #34D399; }
+    .cmd { fill: #E2E8F0; }
+    .out { fill: #8B95A7; }
+    .accent-txt { fill: #38BDF8; }
+    .line { opacity: 0; animation: reveal 0.5s ease-out forwards; }
+    .l1 { animation-delay: 0.4s; }
+    .l2 { animation-delay: 1.0s; }
+    .l3 { animation-delay: 1.7s; }
+    .l4 { animation-delay: 2.3s; }
+    .l5 { animation-delay: 3.0s; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .bar { transform-origin: 70px 0; animation: grow 1.4s cubic-bezier(0.22, 1, 0.36, 1) forwards; transform: scaleX(0); }
+    .glow-a { animation: drift 9s ease-in-out infinite alternate; }
+    .glow-b { animation: drift 11s ease-in-out infinite alternate-reverse; }
+    @keyframes reveal { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes grow { to { transform: scaleX(1); } }
+    @keyframes drift { from { transform: translate(0, 0); } to { transform: translate(40px, -25px); } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0F1D"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="70" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="0.55" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#1E293B"/>
+    </pattern>
+    <filter id="blur" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)" opacity="0.5"/>
+    <circle class="glow-a" cx="1060" cy="40" r="150" fill="#6366F1" opacity="0.16" filter="url(#blur)"/>
+    <circle class="glow-b" cx="180" cy="300" r="160" fill="#0EA5E9" opacity="0.13" filter="url(#blur)"/>
+
+    <text class="title" x="68" y="150" fill="url(#accent)">ARTY</text>
+    <text class="subtitle" x="72" y="196">FULL-STACK DEVELOPER</text>
+    <rect class="bar" x="70" y="218" width="380" height="4" rx="2" fill="url(#accent)"/>
+    <text class="mono out line l1" x="72" y="256">TypeScript &#183; Next.js &#183; Node.js &#183; PostgreSQL &#183; Java</text>
+
+    <rect x="720" y="58" width="412" height="204" rx="12" fill="#0F1523" stroke="#1F2937"/>
+    <rect x="720" y="58" width="412" height="34" rx="12" fill="#131A2B"/>
+    <rect x="720" y="80" width="412" height="12" fill="#131A2B"/>
+    <circle cx="742" cy="75" r="5.5" fill="#F87171"/>
+    <circle cx="760" cy="75" r="5.5" fill="#FBBF24"/>
+    <circle cx="778" cy="75" r="5.5" fill="#34D399"/>
+    <text class="mono" x="906" y="80" fill="#64748B" text-anchor="middle" font-size="12">arty@dev: ~</text>
+
+    <g class="line l1">
+      <text class="mono prompt" x="740" y="122">$</text>
+      <text class="mono cmd" x="756" y="122">whoami</text>
+    </g>
+    <text class="mono out line l2" x="740" y="146">arty &#8212; builder of full products</text>
+    <g class="line l3">
+      <text class="mono prompt" x="740" y="176">$</text>
+      <text class="mono cmd" x="756" y="176">cat philosophy.txt</text>
+    </g>
+    <text class="mono out line l4" x="740" y="200">simple &#62; clever &#183; shipped &#62; perfect</text>
+    <g class="line l5">
+      <text class="mono prompt" x="740" y="234">$</text>
+      <text class="mono accent-txt" x="756" y="234">ship --daily</text>
+      <rect class="cursor" x="866" y="222" width="9" height="15" fill="#38BDF8"/>
+    </g>
+  </g>
+</svg>
