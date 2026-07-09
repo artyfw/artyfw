@@ -63,11 +63,6 @@ const arty = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=artyfw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&count_private=true&include_all_commits=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artyfw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" alt="top languages" />
-
-<br /><br />
-
 <img src="https://streak-stats.demolab.com?user=artyfw&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=38BDF8" alt="streak" />
 
 <br /><br />
